@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1603784286 source:c:\users\dani\desktop\avl\main.cpp
+	"avl.h"
+
+1603785556 c:\users\dani\desktop\avl\avl.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<math.h>
+	<time.h>
+
+1603785556 source:c:\users\dani\desktop\avl\avl.cpp
+	"AVL.h"
+

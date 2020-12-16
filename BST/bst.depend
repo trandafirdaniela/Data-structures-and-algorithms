@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1603360892 source:d:\new folder\bst\main.cpp
+	"bst.h"
+
+1603360860 d:\new folder\bst\bst.h
+	<iostream>
+
+1603360985 source:d:\new folder\bst\bst.cpp
+	"bst.h"
+
+1603370896 source:f:\new folder\bst\bst.cpp
+	"bst.h"
+
+1603360862 f:\new folder\bst\bst.h
+	<iostream>
+
+1603360894 source:f:\new folder\bst\main.cpp
+	"bst.h"
+
+1603911484 source:c:\users\dani\desktop\bst\main.cpp
+	"bst.h"
+
+1603914011 c:\users\dani\desktop\bst\bst.h
+	<iostream>
+
+1603911479 source:c:\users\dani\desktop\bst\bst.cpp
+	"bst.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1607575036 source:d:\####sda\btrees\btrees.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"Btrees.h"
+
+1607553159 d:\####sda\btrees\btrees.h
+	<iostream>
+
+1607578994 source:d:\####sda\btrees\main.cpp
+	"Btrees.h"
+
